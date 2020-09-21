@@ -1,0 +1,36 @@
+.hidden {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
+
+.d-none {
+    display: none;
+}
+
+.d-block {
+    display: block;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.fd-colum {
+    flex-direction: column;
+}
+
+.f-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.f-space-around {
+    justify-content: space-around;
+}
+
+.f-space-beetwen {
+    justify-content: space-between;
+}
